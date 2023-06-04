@@ -1,0 +1,17 @@
+{
+    "name": "gouda/seo",
+    "autoload": {
+        "psr-4": {
+            "Gouda\\Seo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "macbookpro",
+            "email": "dev.mohamedgouda@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.9"
+    }
+}
